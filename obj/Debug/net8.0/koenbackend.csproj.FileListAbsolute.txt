@@ -31,3 +31,4 @@ D:\koenbackend\obj\Debug\net8.0\refint\koenbackend.dll
 D:\koenbackend\obj\Debug\net8.0\koenbackend.pdb
 D:\koenbackend\obj\Debug\net8.0\koenbackend.genruntimeconfig.cache
 D:\koenbackend\obj\Debug\net8.0\ref\koenbackend.dll
+D:\koenbackend\obj\Debug\net8.0\koenbackend.sourcelink.json

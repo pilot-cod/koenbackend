@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("koenbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adeaa9c5929a37e08d9c2c3fb1b5cb1e129a87f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("koenbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("koenbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
